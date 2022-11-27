@@ -2,6 +2,5 @@ Hellow CI/CD
 
 Test ssh ....
 
-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
-
+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
 second
